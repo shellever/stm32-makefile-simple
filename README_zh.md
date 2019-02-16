@@ -31,5 +31,6 @@ $ make burn
 
 ## 参考文章
 [Ubuntu下使用Makefile开发STM32（合集）](http://www.stmcu.org.cn/module/forum/thread-603753-1-1.html)
+
 [stlink](https://github.com/texane/stlink)
 
